@@ -1,0 +1,4 @@
+﻿  NewWarSymulation.cpp
+C:\Users\Илья\Desktop\NewWarSymulation\NewWarSymulation\NewWarSymulation.cpp(260,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Илья\Desktop\NewWarSymulation\NewWarSymulation\NewWarSymulation.cpp(327,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  NewWarSymulation.vcxproj -> C:\Users\Илья\Desktop\NewWarSymulation\Debug\NewWarSymulation.exe
